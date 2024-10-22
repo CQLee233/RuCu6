@@ -27,7 +27,7 @@ jobs:
 
       # Step 3: Add the upstream repository
       - name: Add Upstream Remote
-        run: git remote add upstream https://github.com/RuCu6/Loon.git
+        run: git remote add upstream https://github.com/CQLee233/RuCu6.git
 
       # Step 4: Fetch the latest changes from the upstream repository
       - name: Fetch Upstream
